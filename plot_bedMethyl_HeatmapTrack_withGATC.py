@@ -9,7 +9,7 @@ from matplotlib.gridspec import GridSpec
 from matplotlib.cm import ScalarMappable
 from matplotlib.colors import Normalize
 
-REFERENCE_FASTA = "XXXXXXXXX/AdaptiveSequencing/GCF_048537505.1_Sr3.10_genomic.fna"
+REFERENCE_FASTA = "XXXXX/AdaptiveSequencing/GCF_030685395.1_ASM3068539v1_genomic.fna"
 
 DATASET_FILES = [
     "NoAdaptive.filtered.bedMethyl",
@@ -215,7 +215,7 @@ def plot_tracks(
             source_rows.append(row)
 
     source_df = pd.DataFrame(source_rows)
-    source_df.to_csv("XXXXXXXXX/AdaptiveSequencing/PaperFigures/Figure3C_SourceData.csv",index=False)
+    source_df.to_csv("XXXXX/AdaptiveSequencing/PaperFigures_IK82/Figure3C_SourceData.csv",index=False)
 
     #plot
     n_rows = len(panel_order) + 1
