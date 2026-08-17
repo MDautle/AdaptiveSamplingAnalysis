@@ -1,4 +1,4 @@
-# AdaptiveSamplingAnalysis
+# Adaptive Sampling Analysis
 
 This repository is associated with the following manuscript:  Dautle, M., Warren, M., Roman, E., Gould, A. (2026) Evaluating Adaptive Sampling Performance for Low-Diversity Whole-Genome Sequencing Using a Binary Vertebrate-Bacteria Symbiosis. (Submitted)
 
