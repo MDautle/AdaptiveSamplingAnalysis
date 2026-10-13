@@ -21,7 +21,7 @@ As a reminder, not all cells will need to be run when generating the figures fro
 
 
 ## Minimally Processed Raw Data 
-The ONT long-read sequencing data in FASTQ format can be found on NCBI under BioProject ID PRJNA1504951. It will be released upon manuscript publication. If you would like early access, you may make a request by emailing Ms.Madison Dautle (madison.dautle@temple.edu). Please include the reason for your request in your email. As FASTQ format does not retain methylation modification tags, the files are available in modBam format format upon reasonable request. 
+The ONT long-read sequencing data in FASTQ and modBAM format can be found on NCBI under BioProject ID PRJNA1504951. It will be released upon manuscript publication. If you would like early access, you may make a request by emailing Ms.Madison Dautle (madison.dautle@temple.edu). Please include the reason for your request in your email. 
 
 ## Contact Us
 The best way to reach us is by email, rather than opening an issue on the repository. Questions may be directed to Dr.Alison Gould (alison.gould@temple.edu) or Ms.Madison Dautle (madison.dautle@temple.edu). 
